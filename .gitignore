@@ -22,3 +22,4 @@ stacktrace.log
 web-app/images/*
 .sass-cache
 .sass-work
+/.slcache
